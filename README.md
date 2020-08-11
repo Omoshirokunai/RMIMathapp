@@ -1,6 +1,4 @@
-# RMIMathapp
-
-# Java RMI Application
+# Simple Java RMI Application
 
 A simple java RMI application that uses localhost 
 
