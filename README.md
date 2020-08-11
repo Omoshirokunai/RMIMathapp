@@ -4,7 +4,7 @@
 
 A simple java RMI application that uses localhost 
 
-(supposed to be School asignment)
+(supposed to be a school asignment)
 
 ## Compile
 
